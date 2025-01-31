@@ -16,5 +16,11 @@ A system that processes YouTube videos by transcribing their content and generat
 
 [Watch the demo video](https://youtu.be/N5yK6_4aynY)
 
+[![Watch the demo video](https://img.youtube.com/vi/N5yK6_4aynY/0.jpg)](https://www.youtube.com/watch?v=N5yK6_4aynY)
+
+## ML Models Used
+- [OpenAI Whisper (medium.en)](https://github.com/openai/whisper)
+- [Semantic Search (intfloat/e5-large-v2)](https://huggingface.co/intfloat/e5-large-v2)
+
 
 
